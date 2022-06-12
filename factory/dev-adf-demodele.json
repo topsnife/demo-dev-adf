@@ -1,0 +1,9 @@
+{
+	"name": "dev-adf-demodele",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d9502328-1fab-4bc8-8d44-f6095e2517d8",
+		"tenantId": "797f97cc-1187-46e4-b52e-5770092e0991"
+	}
+}
